@@ -1,0 +1,15 @@
+{
+  "hash": "fd84bcda8fb79a19657d377601661605",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Seleção de matrizes de juçara para produção de polpa\"\nformat: html\n---\n\n\n\n## Seleção de matrizes de juçara para produção de polpa\n\n**Data:** 2023-08-10\n\nForam identificadas matrizes precoces e produtivas de palmeira juçara para coleta de sementes e produção de mudas.\n\n### Custos associados\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# Substitua os valores abaixo pelos dados reais\ndata.frame(\n  Descrição = c(\"Insumos\", \"Mão de obra\", \"Equipamentos\"),\n  `Custo (R$)` = c(0, 0, 0)\n)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n     Descrição Custo..R..\n1      Insumos          0\n2  Mão de obra          0\n3 Equipamentos          0\n```\n\n\n:::\n:::\n\n\n\n### Retorno (quando aplicável)\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# Substitua pelos dados de produção e valor\ndata.frame(\n  Produto = c(\"\"),\n  Quantidade = c(\"\"),\n  `Valor Total (R$)` = c(\"\")\n)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n  Produto Quantidade Valor.Total..R..\n1                                    \n```\n\n\n:::\n:::\n\n\n\n### Imagens e vídeos\n\n![Mudas juçara](../imagens/mudas_palmito.jpg){width=200px}\n\n![Mudas juçara](../imagens/mudas_jucara.jpg){width=200px}\n\n![Mudas juçara](../imagens/mudas_jucara_saco_maior.jpg){width=200px}\n\n![Mudas juçara](../imagens/mudas_jucara_sacao.jpg){width=200px}\n\n![Mudas juçara](../imagens/mudas_jucara_grande.jpg){width=200px}\n\n### Post relacionado no Instagram\n\n[Link para o post](https://www.instagram.com/p/CwJCkVpJBJY/?img_index=2&igsh=MThtYWZtZmhtdzdrMQ==)\n\n### Baixe a planilha de custos e produção\n\n[Baixar planilha](../custo_e_retorno.csv)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

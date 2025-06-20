@@ -1,0 +1,54 @@
+---
+title: "Preparo da área"
+format: html
+---
+
+## Preparo da área
+
+**Data:** 2024-08-30
+
+Foi feita a limpeza, gradagem e subsolagem para adequar o solo ao plantio das mudas nativas e culturas agrícolas.
+
+### Custos associados
+
+```{r}
+# Substitua os valores abaixo pelos dados reais
+data.frame(
+  Descrição = c("Insumos", "Mão de obra", "Equipamentos"),
+  `Custo (R$)` = c(0, 0, 0)
+)
+```
+
+### Retorno (quando aplicável)
+
+```{r}
+# Substitua pelos dados de produção e valor
+data.frame(
+  Produto = c(""),
+  Quantidade = c(""),
+  `Valor Total (R$)` = c("")
+)
+```
+
+### Imagens e vídeos
+
+
+![Limpeza da área, retirada de lenha](../imagens/limpeza_da_area.jpg){width=600px}
+
+![Preparo da área com destoca de árvores mortas](../imagens/preparo_da_area.jpg){width=600px}
+
+![Preparo da área, grade](../imagens/preparo_da_area_grade.jpg){width=600px}
+
+![Preparo da área subsolador](../imagens/preparo_da_area_subsolador.jpg){width=600px}
+
+<video width="600" controls>
+  <source src="../imagens/video_subsolador_usar.mp4" type="video/mp4">
+</video>
+
+### Post relacionado no Instagram
+
+[Link para o post](https://www.instagram.com/reel/C3I_LtZJbPe/?igsh=MXJmMDR2c3BjbDV2dQ==)
+
+### Baixe a planilha de custos e produção
+
+[Baixar planilha](../custo_e_retorno.csv)

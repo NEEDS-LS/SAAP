@@ -1,0 +1,20 @@
+---
+title: "Linha do Tempo"
+format: html
+---
+
+## Linha do tempo do SAAP
+
+As principais atividades do Sistema Agroflorestal do Alto Paranapanema (SAAP) estão organizadas abaixo da mais recente para a mais antiga. Clique nos links para acessar a página com fotos, descrições detalhadas, custos e, quando houver, retorno associado.
+
+- 📌 **2025-05-15** — [Abertura de covas para plantio de café e maracujá](atividades/cova_cafe_maracuja.qmd)
+- 📌 **2025-04-22** — [Aplicação de herbicida](atividades/aplicacao_herbicida.qmd)
+- 📌 **2025-03-28** — [Adubação verde](atividades/adubacao_verde.qmd)
+- 📌 **2025-03-10** — [Colheita do milho e da abóbora](atividades/colheita_milho_abobora.qmd)
+- 📌 **2025-02-15** — [Coleta de sementes de juçara (2º ano)](atividades/coleta_sementes_jucara.qmd)
+- 📌 **2024-12-05** — [Adubação de cobertura do milho](atividades/adubacao_milho.qmd)
+- 📌 **2024-11-21** — [Apresentação institucional do SAAP](atividades/apresentacao_saap.qmd)
+- 📌 **2024-10-15** — [Plantio do milho e das abóboras](atividades/plantio_milho_abobora.qmd)
+- 📌 **2024-09-25** — [Plantio de espécies nativas](atividades/plantio_nativas.qmd)
+- 📌 **2024-08-30** — [Preparo da área](atividades/preparo_area.qmd)
+- 📌 **2023-08-10** — [Seleção de matrizes de juçara para produção de polpa](atividades/seleciona_jucara.qmd)

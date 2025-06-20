@@ -1,0 +1,43 @@
+---
+title: "Apresentação institucional do SAAP"
+format: html
+---
+
+## Apresentação institucional do SAAP
+
+**Data:** 2024-11-21
+
+O projeto foi apresentado ao ministro Paulo Teixeira e a João Pedro Stedile, destacando sua relevância regional.
+
+### Custos associados
+
+```{r}
+# Substitua os valores abaixo pelos dados reais
+data.frame(
+  Descrição = c("Insumos", "Mão de obra", "Equipamentos"),
+  `Custo (R$)` = c(0, 0, 0)
+)
+```
+
+### Retorno (quando aplicável)
+
+```{r}
+# Substitua pelos dados de produção e valor
+data.frame(
+  Produto = c(""),
+  Quantidade = c(""),
+  `Valor Total (R$)` = c("")
+)
+```
+
+### Imagens e vídeos
+
+*Imagens ilustrativas serão incluídas aqui, conforme forem disponibilizadas.*
+
+### Post relacionado no Instagram
+
+[Link para o post](https://www.instagram.com/p/C4J51GaM-vS/?img_index=5&igsh=dmV0NTA0NGpjdjNn)
+
+### Baixe a planilha de custos e produção
+
+[Baixar planilha](../custo_e_retorno.csv)

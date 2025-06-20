@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "SAAP - Sistema Agroflorestal do Alto Paranapanema"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Início
+      - href: linha_do_tempo.qmd
+        text: Linha do Tempo
+      - href: custo_e_retorno.csv
+        text: Planilha de Custos
+
+format:
+  html:
+    theme: cosmo
+    css: custom.css

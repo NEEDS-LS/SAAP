@@ -1,0 +1,345 @@
+[
+  {
+    "objectID": "selecao_matrizes_jucara.html",
+    "href": "selecao_matrizes_jucara.html",
+    "title": "Selecao matrizes jucara",
+    "section": "",
+    "text": "Descrição detalhada da atividade. Substitua este texto por informações reais.\n\n\n\n\n\nItem\nValor (R$)\n\n\n\n\nInsumo\n0,00\n\n\nMão de obra\n0,00\n\n\nRetorno\n0,00\n\n\n\n\n\n\n \n\n\n\nVer post no Instagram"
+  },
+  {
+    "objectID": "selecao_matrizes_jucara.html#selecao-matrizes-jucara",
+    "href": "selecao_matrizes_jucara.html#selecao-matrizes-jucara",
+    "title": "Selecao matrizes jucara",
+    "section": "",
+    "text": "Descrição detalhada da atividade. Substitua este texto por informações reais.\n\n\n\n\n\nItem\nValor (R$)\n\n\n\n\nInsumo\n0,00\n\n\nMão de obra\n0,00\n\n\nRetorno\n0,00\n\n\n\n\n\n\n \n\n\n\nVer post no Instagram"
+  },
+  {
+    "objectID": "preparo_da_area.html",
+    "href": "preparo_da_area.html",
+    "title": "Preparo da area",
+    "section": "",
+    "text": "Descrição detalhada da atividade. Substitua este texto por informações reais.\n\n\n\n\n\nItem\nValor (R$)\n\n\n\n\nInsumo\n0,00\n\n\nMão de obra\n0,00\n\n\nRetorno\n0,00\n\n\n\n\n\n\n \n\n\n\nVer post no Instagram"
+  },
+  {
+    "objectID": "preparo_da_area.html#preparo-da-area",
+    "href": "preparo_da_area.html#preparo-da-area",
+    "title": "Preparo da area",
+    "section": "",
+    "text": "Descrição detalhada da atividade. Substitua este texto por informações reais.\n\n\n\n\n\nItem\nValor (R$)\n\n\n\n\nInsumo\n0,00\n\n\nMão de obra\n0,00\n\n\nRetorno\n0,00\n\n\n\n\n\n\n \n\n\n\nVer post no Instagram"
+  },
+  {
+    "objectID": "plantio_especies_nativas.html",
+    "href": "plantio_especies_nativas.html",
+    "title": "Plantio especies nativas",
+    "section": "",
+    "text": "Descrição detalhada da atividade. Substitua este texto por informações reais.\n\n\n\n\n\nItem\nValor (R$)\n\n\n\n\nInsumo\n0,00\n\n\nMão de obra\n0,00\n\n\nRetorno\n0,00\n\n\n\n\n\n\n \n\n\n\nVer post no Instagram"
+  },
+  {
+    "objectID": "plantio_especies_nativas.html#plantio-especies-nativas",
+    "href": "plantio_especies_nativas.html#plantio-especies-nativas",
+    "title": "Plantio especies nativas",
+    "section": "",
+    "text": "Descrição detalhada da atividade. Substitua este texto por informações reais.\n\n\n\n\n\nItem\nValor (R$)\n\n\n\n\nInsumo\n0,00\n\n\nMão de obra\n0,00\n\n\nRetorno\n0,00\n\n\n\n\n\n\n \n\n\n\nVer post no Instagram"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Index",
+    "section": "",
+    "text": "Este site documenta as ações, resultados e cronologia do projeto SAAP.\nVeja o nosso esquema de plantio:"
+  },
+  {
+    "objectID": "colheita_milho_abobora.html",
+    "href": "colheita_milho_abobora.html",
+    "title": "Colheita milho abobora",
+    "section": "",
+    "text": "Descrição detalhada da atividade. Substitua este texto por informações reais.\n\n\n\n\n\nItem\nValor (R$)\n\n\n\n\nInsumo\n0,00\n\n\nMão de obra\n0,00\n\n\nRetorno\n0,00\n\n\n\n\n\n\n \n\n\n\nVer post no Instagram"
+  },
+  {
+    "objectID": "colheita_milho_abobora.html#colheita-milho-abobora",
+    "href": "colheita_milho_abobora.html#colheita-milho-abobora",
+    "title": "Colheita milho abobora",
+    "section": "",
+    "text": "Descrição detalhada da atividade. Substitua este texto por informações reais.\n\n\n\n\n\nItem\nValor (R$)\n\n\n\n\nInsumo\n0,00\n\n\nMão de obra\n0,00\n\n\nRetorno\n0,00\n\n\n\n\n\n\n \n\n\n\nVer post no Instagram"
+  },
+  {
+    "objectID": "atividades/seleciona_jucara.html",
+    "href": "atividades/seleciona_jucara.html",
+    "title": "Seleção de matrizes de juçara para produção de polpa",
+    "section": "",
+    "text": "Data: 2023-08-10\nForam identificadas matrizes precoces e produtivas de palmeira juçara para coleta de sementes e produção de mudas.\n\n\n\n# Substitua os valores abaixo pelos dados reais\ndata.frame(\n  Descrição = c(\"Insumos\", \"Mão de obra\", \"Equipamentos\"),\n  `Custo (R$)` = c(0, 0, 0)\n)\n\n     Descrição Custo..R..\n1      Insumos          0\n2  Mão de obra          0\n3 Equipamentos          0\n\n\n\n\n\n\n# Substitua pelos dados de produção e valor\ndata.frame(\n  Produto = c(\"\"),\n  Quantidade = c(\"\"),\n  `Valor Total (R$)` = c(\"\")\n)\n\n  Produto Quantidade Valor.Total..R..\n1                                    \n\n\n\n\n\n\n\n\nMudas juçara\n\n\n\n\n\nMudas juçara\n\n\n\n\n\nMudas juçara\n\n\n\n\n\nMudas juçara\n\n\n\n\n\nMudas juçara\n\n\n\n\n\nLink para o post\n\n\n\nBaixar planilha"
+  },
+  {
+    "objectID": "atividades/seleciona_jucara.html#seleção-de-matrizes-de-juçara-para-produção-de-polpa",
+    "href": "atividades/seleciona_jucara.html#seleção-de-matrizes-de-juçara-para-produção-de-polpa",
+    "title": "Seleção de matrizes de juçara para produção de polpa",
+    "section": "",
+    "text": "Data: 2023-08-10\nForam identificadas matrizes precoces e produtivas de palmeira juçara para coleta de sementes e produção de mudas.\n\n\n\n# Substitua os valores abaixo pelos dados reais\ndata.frame(\n  Descrição = c(\"Insumos\", \"Mão de obra\", \"Equipamentos\"),\n  `Custo (R$)` = c(0, 0, 0)\n)\n\n     Descrição Custo..R..\n1      Insumos          0\n2  Mão de obra          0\n3 Equipamentos          0\n\n\n\n\n\n\n# Substitua pelos dados de produção e valor\ndata.frame(\n  Produto = c(\"\"),\n  Quantidade = c(\"\"),\n  `Valor Total (R$)` = c(\"\")\n)\n\n  Produto Quantidade Valor.Total..R..\n1                                    \n\n\n\n\n\n\n\n\nMudas juçara\n\n\n\n\n\nMudas juçara\n\n\n\n\n\nMudas juçara\n\n\n\n\n\nMudas juçara\n\n\n\n\n\nMudas juçara\n\n\n\n\n\nLink para o post\n\n\n\nBaixar planilha"
+  },
+  {
+    "objectID": "atividades/plantio_nativas.html",
+    "href": "atividades/plantio_nativas.html",
+    "title": "Plantio de espécies nativas",
+    "section": "",
+    "text": "Data: 2024-09-25\nEspécies florestais nativas de diversas funcionalidades foram introduzidas no sistema agroflorestal.\n\n\n\n# Substitua os valores abaixo pelos dados reais\ndata.frame(\n  Descrição = c(\"Insumos\", \"Mão de obra\", \"Equipamentos\"),\n  `Custo (R$)` = c(0, 0, 0)\n)\n\n     Descrição Custo..R..\n1      Insumos          0\n2  Mão de obra          0\n3 Equipamentos          0\n\n\n\n\n\n\n# Substitua pelos dados de produção e valor\ndata.frame(\n  Produto = c(\"\"),\n  Quantidade = c(\"\"),\n  `Valor Total (R$)` = c(\"\")\n)\n\n  Produto Quantidade Valor.Total..R..\n1                                    \n\n\n\n\n\n\n\n\nAdubação de plantio\n\n\n\n\n\nPlantio louro pardo\n\n\n\n\n\nLink para o post\n\n\n\nBaixar planilha"
+  },
+  {
+    "objectID": "atividades/plantio_nativas.html#plantio-de-espécies-nativas",
+    "href": "atividades/plantio_nativas.html#plantio-de-espécies-nativas",
+    "title": "Plantio de espécies nativas",
+    "section": "",
+    "text": "Data: 2024-09-25\nEspécies florestais nativas de diversas funcionalidades foram introduzidas no sistema agroflorestal.\n\n\n\n# Substitua os valores abaixo pelos dados reais\ndata.frame(\n  Descrição = c(\"Insumos\", \"Mão de obra\", \"Equipamentos\"),\n  `Custo (R$)` = c(0, 0, 0)\n)\n\n     Descrição Custo..R..\n1      Insumos          0\n2  Mão de obra          0\n3 Equipamentos          0\n\n\n\n\n\n\n# Substitua pelos dados de produção e valor\ndata.frame(\n  Produto = c(\"\"),\n  Quantidade = c(\"\"),\n  `Valor Total (R$)` = c(\"\")\n)\n\n  Produto Quantidade Valor.Total..R..\n1                                    \n\n\n\n\n\n\n\n\nAdubação de plantio\n\n\n\n\n\nPlantio louro pardo\n\n\n\n\n\nLink para o post\n\n\n\nBaixar planilha"
+  },
+  {
+    "objectID": "atividades/cova_cafe_maracuja.html",
+    "href": "atividades/cova_cafe_maracuja.html",
+    "title": "Abertura de covas para plantio de café e maracujá",
+    "section": "",
+    "text": "Data: 2025-05-15\nPreparo manual e mecanizado para o plantio das culturas produtivas complementares ao sistema agroflorestal.\n\n\n\n# Substitua os valores abaixo pelos dados reais\ndata.frame(\n  Descrição = c(\"Insumos\", \"Mão de obra\", \"Equipamentos\"),\n  `Custo (R$)` = c(0, 0, 0)\n)\n\n     Descrição Custo..R..\n1      Insumos          0\n2  Mão de obra          0\n3 Equipamentos          0\n\n\n\n\n\n\n# Substitua pelos dados de produção e valor\ndata.frame(\n  Produto = c(\"\"),\n  Quantidade = c(\"\"),\n  `Valor Total (R$)` = c(\"\")\n)\n\n  Produto Quantidade Valor.Total..R..\n1                                    \n\n\n\n\n\n\n\n\nPreparo da area para plantio de maracuja e café\n\n\n\n\n\nNenhum post disponível\n\n\n\nBaixar planilha"
+  },
+  {
+    "objectID": "atividades/cova_cafe_maracuja.html#abertura-de-covas-para-plantio-de-café-e-maracujá",
+    "href": "atividades/cova_cafe_maracuja.html#abertura-de-covas-para-plantio-de-café-e-maracujá",
+    "title": "Abertura de covas para plantio de café e maracujá",
+    "section": "",
+    "text": "Data: 2025-05-15\nPreparo manual e mecanizado para o plantio das culturas produtivas complementares ao sistema agroflorestal.\n\n\n\n# Substitua os valores abaixo pelos dados reais\ndata.frame(\n  Descrição = c(\"Insumos\", \"Mão de obra\", \"Equipamentos\"),\n  `Custo (R$)` = c(0, 0, 0)\n)\n\n     Descrição Custo..R..\n1      Insumos          0\n2  Mão de obra          0\n3 Equipamentos          0\n\n\n\n\n\n\n# Substitua pelos dados de produção e valor\ndata.frame(\n  Produto = c(\"\"),\n  Quantidade = c(\"\"),\n  `Valor Total (R$)` = c(\"\")\n)\n\n  Produto Quantidade Valor.Total..R..\n1                                    \n\n\n\n\n\n\n\n\nPreparo da area para plantio de maracuja e café\n\n\n\n\n\nNenhum post disponível\n\n\n\nBaixar planilha"
+  },
+  {
+    "objectID": "atividades/coleta_sementes_jucara.html",
+    "href": "atividades/coleta_sementes_jucara.html",
+    "title": "Coleta de sementes de juçara (2º ano)",
+    "section": "",
+    "text": "Data: 2025-02-15\nSementes de palmeira juçara foram coletadas de matrizes com boa performance para nova produção de mudas.\n\n\n\n# Substitua os valores abaixo pelos dados reais\ndata.frame(\n  Descrição = c(\"Insumos\", \"Mão de obra\", \"Equipamentos\"),\n  `Custo (R$)` = c(0, 0, 0)\n)\n\n     Descrição Custo..R..\n1      Insumos          0\n2  Mão de obra          0\n3 Equipamentos          0\n\n\n\n\n\n\n# Substitua pelos dados de produção e valor\ndata.frame(\n  Produto = c(\"\"),\n  Quantidade = c(\"\"),\n  `Valor Total (R$)` = c(\"\")\n)\n\n  Produto Quantidade Valor.Total..R..\n1                                    \n\n\n\n\n\n\n\n\nColheita de cacho de juçara\n\n\n\n\n\nLink para o post\n\n\n\nBaixar planilha"
+  },
+  {
+    "objectID": "atividades/coleta_sementes_jucara.html#coleta-de-sementes-de-juçara-2º-ano",
+    "href": "atividades/coleta_sementes_jucara.html#coleta-de-sementes-de-juçara-2º-ano",
+    "title": "Coleta de sementes de juçara (2º ano)",
+    "section": "",
+    "text": "Data: 2025-02-15\nSementes de palmeira juçara foram coletadas de matrizes com boa performance para nova produção de mudas.\n\n\n\n# Substitua os valores abaixo pelos dados reais\ndata.frame(\n  Descrição = c(\"Insumos\", \"Mão de obra\", \"Equipamentos\"),\n  `Custo (R$)` = c(0, 0, 0)\n)\n\n     Descrição Custo..R..\n1      Insumos          0\n2  Mão de obra          0\n3 Equipamentos          0\n\n\n\n\n\n\n# Substitua pelos dados de produção e valor\ndata.frame(\n  Produto = c(\"\"),\n  Quantidade = c(\"\"),\n  `Valor Total (R$)` = c(\"\")\n)\n\n  Produto Quantidade Valor.Total..R..\n1                                    \n\n\n\n\n\n\n\n\nColheita de cacho de juçara\n\n\n\n\n\nLink para o post\n\n\n\nBaixar planilha"
+  },
+  {
+    "objectID": "atividades/aplicacao_herbicida.html",
+    "href": "atividades/aplicacao_herbicida.html",
+    "title": "Aplicação de herbicida",
+    "section": "",
+    "text": "Data: 2025-04-22\nControle químico de espécies competidoras visando garantir o estabelecimento inicial das espécies nativas e produtivas.\n\n\n\n# Substitua os valores abaixo pelos dados reais\ndata.frame(\n  Descrição = c(\"Insumos\", \"Mão de obra\", \"Equipamentos\"),\n  `Custo (R$)` = c(0, 0, 0)\n)\n\n     Descrição Custo..R..\n1      Insumos          0\n2  Mão de obra          0\n3 Equipamentos          0\n\n\n\n\n\n\n# Substitua pelos dados de produção e valor\ndata.frame(\n  Produto = c(\"\"),\n  Quantidade = c(\"\"),\n  `Valor Total (R$)` = c(\"\")\n)\n\n  Produto Quantidade Valor.Total..R..\n1                                    \n\n\n\n\n\n\n\n\n\n\n\nNenhum post disponível\n\n\n\nBaixar planilha"
+  },
+  {
+    "objectID": "atividades/aplicacao_herbicida.html#aplicação-de-herbicida",
+    "href": "atividades/aplicacao_herbicida.html#aplicação-de-herbicida",
+    "title": "Aplicação de herbicida",
+    "section": "",
+    "text": "Data: 2025-04-22\nControle químico de espécies competidoras visando garantir o estabelecimento inicial das espécies nativas e produtivas.\n\n\n\n# Substitua os valores abaixo pelos dados reais\ndata.frame(\n  Descrição = c(\"Insumos\", \"Mão de obra\", \"Equipamentos\"),\n  `Custo (R$)` = c(0, 0, 0)\n)\n\n     Descrição Custo..R..\n1      Insumos          0\n2  Mão de obra          0\n3 Equipamentos          0\n\n\n\n\n\n\n# Substitua pelos dados de produção e valor\ndata.frame(\n  Produto = c(\"\"),\n  Quantidade = c(\"\"),\n  `Valor Total (R$)` = c(\"\")\n)\n\n  Produto Quantidade Valor.Total..R..\n1                                    \n\n\n\n\n\n\n\n\n\n\n\nNenhum post disponível\n\n\n\nBaixar planilha"
+  },
+  {
+    "objectID": "atividades/adubacao_milho.html",
+    "href": "atividades/adubacao_milho.html",
+    "title": "Adubação de cobertura do milho",
+    "section": "",
+    "text": "Data: 2024-12-05\nAdubação nitrogenada em cobertura para garantir o bom desenvolvimento do milho plantado em consórcio.\n\n\n\n# Substitua os valores abaixo pelos dados reais\ndata.frame(\n  Descrição = c(\"Insumos\", \"Mão de obra\", \"Equipamentos\"),\n  `Custo (R$)` = c(0, 0, 0)\n)\n\n     Descrição Custo..R..\n1      Insumos          0\n2  Mão de obra          0\n3 Equipamentos          0\n\n\n\n\n\n\n# Substitua pelos dados de produção e valor\ndata.frame(\n  Produto = c(\"\"),\n  Quantidade = c(\"\"),\n  `Valor Total (R$)` = c(\"\")\n)\n\n  Produto Quantidade Valor.Total..R..\n1                                    \n\n\n\n\n\nImagens ilustrativas serão incluídas aqui, conforme forem disponibilizadas.\n\n\n\nLink para o post\n\n\n\nBaixar planilha"
+  },
+  {
+    "objectID": "atividades/adubacao_milho.html#adubação-de-cobertura-do-milho",
+    "href": "atividades/adubacao_milho.html#adubação-de-cobertura-do-milho",
+    "title": "Adubação de cobertura do milho",
+    "section": "",
+    "text": "Data: 2024-12-05\nAdubação nitrogenada em cobertura para garantir o bom desenvolvimento do milho plantado em consórcio.\n\n\n\n# Substitua os valores abaixo pelos dados reais\ndata.frame(\n  Descrição = c(\"Insumos\", \"Mão de obra\", \"Equipamentos\"),\n  `Custo (R$)` = c(0, 0, 0)\n)\n\n     Descrição Custo..R..\n1      Insumos          0\n2  Mão de obra          0\n3 Equipamentos          0\n\n\n\n\n\n\n# Substitua pelos dados de produção e valor\ndata.frame(\n  Produto = c(\"\"),\n  Quantidade = c(\"\"),\n  `Valor Total (R$)` = c(\"\")\n)\n\n  Produto Quantidade Valor.Total..R..\n1                                    \n\n\n\n\n\nImagens ilustrativas serão incluídas aqui, conforme forem disponibilizadas.\n\n\n\nLink para o post\n\n\n\nBaixar planilha"
+  },
+  {
+    "objectID": "aplicacao_herbicida.html",
+    "href": "aplicacao_herbicida.html",
+    "title": "Aplicacao herbicida",
+    "section": "",
+    "text": "Descrição detalhada da atividade. Substitua este texto por informações reais.\n\n\n\n\n\nItem\nValor (R$)\n\n\n\n\nInsumo\n0,00\n\n\nMão de obra\n0,00\n\n\nRetorno\n0,00\n\n\n\n\n\n\n \n\n\n\nVer post no Instagram"
+  },
+  {
+    "objectID": "aplicacao_herbicida.html#aplicacao-herbicida",
+    "href": "aplicacao_herbicida.html#aplicacao-herbicida",
+    "title": "Aplicacao herbicida",
+    "section": "",
+    "text": "Descrição detalhada da atividade. Substitua este texto por informações reais.\n\n\n\n\n\nItem\nValor (R$)\n\n\n\n\nInsumo\n0,00\n\n\nMão de obra\n0,00\n\n\nRetorno\n0,00\n\n\n\n\n\n\n \n\n\n\nVer post no Instagram"
+  },
+  {
+    "objectID": "adubacao_cobertura_milho.html",
+    "href": "adubacao_cobertura_milho.html",
+    "title": "Adubacao cobertura milho",
+    "section": "",
+    "text": "Descrição detalhada da atividade. Substitua este texto por informações reais.\n\n\n\n\n\nItem\nValor (R$)\n\n\n\n\nInsumo\n0,00\n\n\nMão de obra\n0,00\n\n\nRetorno\n0,00\n\n\n\n\n\n\n \n\n\n\nVer post no Instagram"
+  },
+  {
+    "objectID": "adubacao_cobertura_milho.html#adubacao-cobertura-milho",
+    "href": "adubacao_cobertura_milho.html#adubacao-cobertura-milho",
+    "title": "Adubacao cobertura milho",
+    "section": "",
+    "text": "Descrição detalhada da atividade. Substitua este texto por informações reais.\n\n\n\n\n\nItem\nValor (R$)\n\n\n\n\nInsumo\n0,00\n\n\nMão de obra\n0,00\n\n\nRetorno\n0,00\n\n\n\n\n\n\n \n\n\n\nVer post no Instagram"
+  },
+  {
+    "objectID": "abertura_covas_cafe_maracuja.html",
+    "href": "abertura_covas_cafe_maracuja.html",
+    "title": "Abertura covas cafe maracuja",
+    "section": "",
+    "text": "Descrição detalhada da atividade. Substitua este texto por informações reais.\n\n\n\n\n\nItem\nValor (R$)\n\n\n\n\nInsumo\n0,00\n\n\nMão de obra\n0,00\n\n\nRetorno\n0,00\n\n\n\n\n\n\n \n\n\n\nVer post no Instagram"
+  },
+  {
+    "objectID": "abertura_covas_cafe_maracuja.html#abertura-covas-cafe-maracuja",
+    "href": "abertura_covas_cafe_maracuja.html#abertura-covas-cafe-maracuja",
+    "title": "Abertura covas cafe maracuja",
+    "section": "",
+    "text": "Descrição detalhada da atividade. Substitua este texto por informações reais.\n\n\n\n\n\nItem\nValor (R$)\n\n\n\n\nInsumo\n0,00\n\n\nMão de obra\n0,00\n\n\nRetorno\n0,00\n\n\n\n\n\n\n \n\n\n\nVer post no Instagram"
+  },
+  {
+    "objectID": "adubacao_verde.html",
+    "href": "adubacao_verde.html",
+    "title": "Adubacao verde",
+    "section": "",
+    "text": "Descrição detalhada da atividade. Substitua este texto por informações reais.\n\n\n\n\n\nItem\nValor (R$)\n\n\n\n\nInsumo\n0,00\n\n\nMão de obra\n0,00\n\n\nRetorno\n0,00\n\n\n\n\n\n\n \n\n\n\nVer post no Instagram"
+  },
+  {
+    "objectID": "adubacao_verde.html#adubacao-verde",
+    "href": "adubacao_verde.html#adubacao-verde",
+    "title": "Adubacao verde",
+    "section": "",
+    "text": "Descrição detalhada da atividade. Substitua este texto por informações reais.\n\n\n\n\n\nItem\nValor (R$)\n\n\n\n\nInsumo\n0,00\n\n\nMão de obra\n0,00\n\n\nRetorno\n0,00\n\n\n\n\n\n\n \n\n\n\nVer post no Instagram"
+  },
+  {
+    "objectID": "apresentacao_institucional.html",
+    "href": "apresentacao_institucional.html",
+    "title": "Apresentacao institucional",
+    "section": "",
+    "text": "Descrição detalhada da atividade. Substitua este texto por informações reais.\n\n\n\n\n\nItem\nValor (R$)\n\n\n\n\nInsumo\n0,00\n\n\nMão de obra\n0,00\n\n\nRetorno\n0,00\n\n\n\n\n\n\n \n\n\n\nVer post no Instagram"
+  },
+  {
+    "objectID": "apresentacao_institucional.html#apresentacao-institucional",
+    "href": "apresentacao_institucional.html#apresentacao-institucional",
+    "title": "Apresentacao institucional",
+    "section": "",
+    "text": "Descrição detalhada da atividade. Substitua este texto por informações reais.\n\n\n\n\n\nItem\nValor (R$)\n\n\n\n\nInsumo\n0,00\n\n\nMão de obra\n0,00\n\n\nRetorno\n0,00\n\n\n\n\n\n\n \n\n\n\nVer post no Instagram"
+  },
+  {
+    "objectID": "atividades/adubacao_verde.html",
+    "href": "atividades/adubacao_verde.html",
+    "title": "Adubação verde",
+    "section": "",
+    "text": "Data: 2025-03-28\nUtilização de espécies leguminosas para recuperação do solo e aporte de nitrogênio de forma natural.\n\n\n\n# Substitua os valores abaixo pelos dados reais\ndata.frame(\n  Descrição = c(\"Insumos\", \"Mão de obra\", \"Equipamentos\"),\n  `Custo (R$)` = c(0, 0, 0)\n)\n\n     Descrição Custo..R..\n1      Insumos          0\n2  Mão de obra          0\n3 Equipamentos          0\n\n\n\n\n\n\n# Substitua pelos dados de produção e valor\ndata.frame(\n  Produto = c(\"\"),\n  Quantidade = c(\"\"),\n  `Valor Total (R$)` = c(\"\")\n)\n\n  Produto Quantidade Valor.Total..R..\n1                                    \n\n\n\n\n\nImagens ilustrativas serão incluídas aqui, conforme forem disponibilizadas.\n\n\n\nLink para o post\n\n\n\nBaixar planilha"
+  },
+  {
+    "objectID": "atividades/adubacao_verde.html#adubação-verde",
+    "href": "atividades/adubacao_verde.html#adubação-verde",
+    "title": "Adubação verde",
+    "section": "",
+    "text": "Data: 2025-03-28\nUtilização de espécies leguminosas para recuperação do solo e aporte de nitrogênio de forma natural.\n\n\n\n# Substitua os valores abaixo pelos dados reais\ndata.frame(\n  Descrição = c(\"Insumos\", \"Mão de obra\", \"Equipamentos\"),\n  `Custo (R$)` = c(0, 0, 0)\n)\n\n     Descrição Custo..R..\n1      Insumos          0\n2  Mão de obra          0\n3 Equipamentos          0\n\n\n\n\n\n\n# Substitua pelos dados de produção e valor\ndata.frame(\n  Produto = c(\"\"),\n  Quantidade = c(\"\"),\n  `Valor Total (R$)` = c(\"\")\n)\n\n  Produto Quantidade Valor.Total..R..\n1                                    \n\n\n\n\n\nImagens ilustrativas serão incluídas aqui, conforme forem disponibilizadas.\n\n\n\nLink para o post\n\n\n\nBaixar planilha"
+  },
+  {
+    "objectID": "atividades/apresentacao_saap.html",
+    "href": "atividades/apresentacao_saap.html",
+    "title": "Apresentação institucional do SAAP",
+    "section": "",
+    "text": "Data: 2024-11-21\nO projeto foi apresentado ao ministro Paulo Teixeira e a João Pedro Stedile, destacando sua relevância regional.\n\n\n\n# Substitua os valores abaixo pelos dados reais\ndata.frame(\n  Descrição = c(\"Insumos\", \"Mão de obra\", \"Equipamentos\"),\n  `Custo (R$)` = c(0, 0, 0)\n)\n\n     Descrição Custo..R..\n1      Insumos          0\n2  Mão de obra          0\n3 Equipamentos          0\n\n\n\n\n\n\n# Substitua pelos dados de produção e valor\ndata.frame(\n  Produto = c(\"\"),\n  Quantidade = c(\"\"),\n  `Valor Total (R$)` = c(\"\")\n)\n\n  Produto Quantidade Valor.Total..R..\n1                                    \n\n\n\n\n\nImagens ilustrativas serão incluídas aqui, conforme forem disponibilizadas.\n\n\n\nLink para o post\n\n\n\nBaixar planilha"
+  },
+  {
+    "objectID": "atividades/apresentacao_saap.html#apresentação-institucional-do-saap",
+    "href": "atividades/apresentacao_saap.html#apresentação-institucional-do-saap",
+    "title": "Apresentação institucional do SAAP",
+    "section": "",
+    "text": "Data: 2024-11-21\nO projeto foi apresentado ao ministro Paulo Teixeira e a João Pedro Stedile, destacando sua relevância regional.\n\n\n\n# Substitua os valores abaixo pelos dados reais\ndata.frame(\n  Descrição = c(\"Insumos\", \"Mão de obra\", \"Equipamentos\"),\n  `Custo (R$)` = c(0, 0, 0)\n)\n\n     Descrição Custo..R..\n1      Insumos          0\n2  Mão de obra          0\n3 Equipamentos          0\n\n\n\n\n\n\n# Substitua pelos dados de produção e valor\ndata.frame(\n  Produto = c(\"\"),\n  Quantidade = c(\"\"),\n  `Valor Total (R$)` = c(\"\")\n)\n\n  Produto Quantidade Valor.Total..R..\n1                                    \n\n\n\n\n\nImagens ilustrativas serão incluídas aqui, conforme forem disponibilizadas.\n\n\n\nLink para o post\n\n\n\nBaixar planilha"
+  },
+  {
+    "objectID": "atividades/colheita_milho_abobora.html",
+    "href": "atividades/colheita_milho_abobora.html",
+    "title": "Colheita do milho e da abóbora",
+    "section": "",
+    "text": "Data: 2025-03-10\nA produção agrícola consorciada com espécies nativas foi colhida, avaliando-se rendimento e retorno econômico.\n\n\n\n# Substitua os valores abaixo pelos dados reais\ndata.frame(\n  Descrição = c(\"Insumos\", \"Mão de obra\", \"Equipamentos\"),\n  `Custo (R$)` = c(0, 0, 0)\n)\n\n     Descrição Custo..R..\n1      Insumos          0\n2  Mão de obra          0\n3 Equipamentos          0\n\n\n\n\n\n\n# Substitua pelos dados de produção e valor\ndata.frame(\n  Produto = c(\"\"),\n  Quantidade = c(\"\"),\n  `Valor Total (R$)` = c(\"\")\n)\n\n  Produto Quantidade Valor.Total..R..\n1                                    \n\n\n\n\n\n\n\n\nAvaliação da produção do milho\n\n\n\n\n\nCambotia\n\n\n\n\n\nCambotia\n\n\n\n\n\nNenhum post disponível\n\n\n\nBaixar planilha"
+  },
+  {
+    "objectID": "atividades/colheita_milho_abobora.html#colheita-do-milho-e-da-abóbora",
+    "href": "atividades/colheita_milho_abobora.html#colheita-do-milho-e-da-abóbora",
+    "title": "Colheita do milho e da abóbora",
+    "section": "",
+    "text": "Data: 2025-03-10\nA produção agrícola consorciada com espécies nativas foi colhida, avaliando-se rendimento e retorno econômico.\n\n\n\n# Substitua os valores abaixo pelos dados reais\ndata.frame(\n  Descrição = c(\"Insumos\", \"Mão de obra\", \"Equipamentos\"),\n  `Custo (R$)` = c(0, 0, 0)\n)\n\n     Descrição Custo..R..\n1      Insumos          0\n2  Mão de obra          0\n3 Equipamentos          0\n\n\n\n\n\n\n# Substitua pelos dados de produção e valor\ndata.frame(\n  Produto = c(\"\"),\n  Quantidade = c(\"\"),\n  `Valor Total (R$)` = c(\"\")\n)\n\n  Produto Quantidade Valor.Total..R..\n1                                    \n\n\n\n\n\n\n\n\nAvaliação da produção do milho\n\n\n\n\n\nCambotia\n\n\n\n\n\nCambotia\n\n\n\n\n\nNenhum post disponível\n\n\n\nBaixar planilha"
+  },
+  {
+    "objectID": "atividades/plantio_milho_abobora.html",
+    "href": "atividades/plantio_milho_abobora.html",
+    "title": "Plantio do milho e das abóboras",
+    "section": "",
+    "text": "Data: 2024-10-15\nEspécies de ciclo curto foram plantadas junto às espécies nativas para garantir cobertura e retorno no primeiro ano.\n\n\n\n# Substitua os valores abaixo pelos dados reais\ndata.frame(\n  Descrição = c(\"Insumos\", \"Mão de obra\", \"Equipamentos\"),\n  `Custo (R$)` = c(0, 0, 0)\n)\n\n     Descrição Custo..R..\n1      Insumos          0\n2  Mão de obra          0\n3 Equipamentos          0\n\n\n\n\n\n\n# Substitua pelos dados de produção e valor\ndata.frame(\n  Produto = c(\"\"),\n  Quantidade = c(\"\"),\n  `Valor Total (R$)` = c(\"\")\n)\n\n  Produto Quantidade Valor.Total..R..\n1                                    \n\n\n\n\n\nImagens ilustrativas serão incluídas aqui, conforme forem disponibilizadas.\n\n\n\nLink para o post\n\n\n\nBaixar planilha"
+  },
+  {
+    "objectID": "atividades/plantio_milho_abobora.html#plantio-do-milho-e-das-abóboras",
+    "href": "atividades/plantio_milho_abobora.html#plantio-do-milho-e-das-abóboras",
+    "title": "Plantio do milho e das abóboras",
+    "section": "",
+    "text": "Data: 2024-10-15\nEspécies de ciclo curto foram plantadas junto às espécies nativas para garantir cobertura e retorno no primeiro ano.\n\n\n\n# Substitua os valores abaixo pelos dados reais\ndata.frame(\n  Descrição = c(\"Insumos\", \"Mão de obra\", \"Equipamentos\"),\n  `Custo (R$)` = c(0, 0, 0)\n)\n\n     Descrição Custo..R..\n1      Insumos          0\n2  Mão de obra          0\n3 Equipamentos          0\n\n\n\n\n\n\n# Substitua pelos dados de produção e valor\ndata.frame(\n  Produto = c(\"\"),\n  Quantidade = c(\"\"),\n  `Valor Total (R$)` = c(\"\")\n)\n\n  Produto Quantidade Valor.Total..R..\n1                                    \n\n\n\n\n\nImagens ilustrativas serão incluídas aqui, conforme forem disponibilizadas.\n\n\n\nLink para o post\n\n\n\nBaixar planilha"
+  },
+  {
+    "objectID": "atividades/preparo_area.html",
+    "href": "atividades/preparo_area.html",
+    "title": "Preparo da área",
+    "section": "",
+    "text": "Data: 2024-08-30\nFoi feita a limpeza, gradagem e subsolagem para adequar o solo ao plantio das mudas nativas e culturas agrícolas.\n\n\n\n# Substitua os valores abaixo pelos dados reais\ndata.frame(\n  Descrição = c(\"Insumos\", \"Mão de obra\", \"Equipamentos\"),\n  `Custo (R$)` = c(0, 0, 0)\n)\n\n     Descrição Custo..R..\n1      Insumos          0\n2  Mão de obra          0\n3 Equipamentos          0\n\n\n\n\n\n\n# Substitua pelos dados de produção e valor\ndata.frame(\n  Produto = c(\"\"),\n  Quantidade = c(\"\"),\n  `Valor Total (R$)` = c(\"\")\n)\n\n  Produto Quantidade Valor.Total..R..\n1                                    \n\n\n\n\n\n\n\n\nLimpeza da área, retirada de lenha\n\n\n\n\n\nPreparo da área com destoca de árvores mortas\n\n\n\n\n\nPreparo da área, grade\n\n\n\n\n\nPreparo da área subsolador\n\n\n\n\n\n\n\n\nLink para o post\n\n\n\nBaixar planilha"
+  },
+  {
+    "objectID": "atividades/preparo_area.html#preparo-da-área",
+    "href": "atividades/preparo_area.html#preparo-da-área",
+    "title": "Preparo da área",
+    "section": "",
+    "text": "Data: 2024-08-30\nFoi feita a limpeza, gradagem e subsolagem para adequar o solo ao plantio das mudas nativas e culturas agrícolas.\n\n\n\n# Substitua os valores abaixo pelos dados reais\ndata.frame(\n  Descrição = c(\"Insumos\", \"Mão de obra\", \"Equipamentos\"),\n  `Custo (R$)` = c(0, 0, 0)\n)\n\n     Descrição Custo..R..\n1      Insumos          0\n2  Mão de obra          0\n3 Equipamentos          0\n\n\n\n\n\n\n# Substitua pelos dados de produção e valor\ndata.frame(\n  Produto = c(\"\"),\n  Quantidade = c(\"\"),\n  `Valor Total (R$)` = c(\"\")\n)\n\n  Produto Quantidade Valor.Total..R..\n1                                    \n\n\n\n\n\n\n\n\nLimpeza da área, retirada de lenha\n\n\n\n\n\nPreparo da área com destoca de árvores mortas\n\n\n\n\n\nPreparo da área, grade\n\n\n\n\n\nPreparo da área subsolador\n\n\n\n\n\n\n\n\nLink para o post\n\n\n\nBaixar planilha"
+  },
+  {
+    "objectID": "coleta_sementes_jucara_2ano.html",
+    "href": "coleta_sementes_jucara_2ano.html",
+    "title": "Coleta sementes jucara 2ano",
+    "section": "",
+    "text": "Descrição detalhada da atividade. Substitua este texto por informações reais.\n\n\n\n\n\nItem\nValor (R$)\n\n\n\n\nInsumo\n0,00\n\n\nMão de obra\n0,00\n\n\nRetorno\n0,00\n\n\n\n\n\n\n \n\n\n\nVer post no Instagram"
+  },
+  {
+    "objectID": "coleta_sementes_jucara_2ano.html#coleta-sementes-jucara-2ano",
+    "href": "coleta_sementes_jucara_2ano.html#coleta-sementes-jucara-2ano",
+    "title": "Coleta sementes jucara 2ano",
+    "section": "",
+    "text": "Descrição detalhada da atividade. Substitua este texto por informações reais.\n\n\n\n\n\nItem\nValor (R$)\n\n\n\n\nInsumo\n0,00\n\n\nMão de obra\n0,00\n\n\nRetorno\n0,00\n\n\n\n\n\n\n \n\n\n\nVer post no Instagram"
+  },
+  {
+    "objectID": "custos.html",
+    "href": "custos.html",
+    "title": "Custos",
+    "section": "",
+    "text": "Conteúdo de custos."
+  },
+  {
+    "objectID": "linha_do_tempo.html",
+    "href": "linha_do_tempo.html",
+    "title": "Linha do Tempo",
+    "section": "",
+    "text": "As principais atividades do Sistema Agroflorestal do Alto Paranapanema (SAAP) estão organizadas abaixo da mais recente para a mais antiga. Clique nos links para acessar a página com fotos, descrições detalhadas, custos e, quando houver, retorno associado.\n\n📌 2025-05-15 — Abertura de covas para plantio de café e maracujá\n📌 2025-04-22 — Aplicação de herbicida\n📌 2025-03-28 — Adubação verde\n📌 2025-03-10 — Colheita do milho e da abóbora\n📌 2025-02-15 — Coleta de sementes de juçara (2º ano)\n📌 2024-12-05 — Adubação de cobertura do milho\n📌 2024-11-21 — Apresentação institucional do SAAP\n📌 2024-10-15 — Plantio do milho e das abóboras\n📌 2024-09-25 — Plantio de espécies nativas\n📌 2024-08-30 — Preparo da área\n📌 2023-08-10 — Seleção de matrizes de juçara para produção de polpa"
+  },
+  {
+    "objectID": "linha_do_tempo.html#linha-do-tempo-do-saap",
+    "href": "linha_do_tempo.html#linha-do-tempo-do-saap",
+    "title": "Linha do Tempo",
+    "section": "",
+    "text": "As principais atividades do Sistema Agroflorestal do Alto Paranapanema (SAAP) estão organizadas abaixo da mais recente para a mais antiga. Clique nos links para acessar a página com fotos, descrições detalhadas, custos e, quando houver, retorno associado.\n\n📌 2025-05-15 — Abertura de covas para plantio de café e maracujá\n📌 2025-04-22 — Aplicação de herbicida\n📌 2025-03-28 — Adubação verde\n📌 2025-03-10 — Colheita do milho e da abóbora\n📌 2025-02-15 — Coleta de sementes de juçara (2º ano)\n📌 2024-12-05 — Adubação de cobertura do milho\n📌 2024-11-21 — Apresentação institucional do SAAP\n📌 2024-10-15 — Plantio do milho e das abóboras\n📌 2024-09-25 — Plantio de espécies nativas\n📌 2024-08-30 — Preparo da área\n📌 2023-08-10 — Seleção de matrizes de juçara para produção de polpa"
+  },
+  {
+    "objectID": "plantio_milho_abobora.html",
+    "href": "plantio_milho_abobora.html",
+    "title": "Plantio milho abobora",
+    "section": "",
+    "text": "Descrição detalhada da atividade. Substitua este texto por informações reais.\n\n\n\n\n\nItem\nValor (R$)\n\n\n\n\nInsumo\n0,00\n\n\nMão de obra\n0,00\n\n\nRetorno\n0,00\n\n\n\n\n\n\n\n\n\nMilho e abóbora novo\n\n\n\n\n\nMilho e abóbora\n\n\n\n\n\nMilho recém germinado e louro pardo\n\n\n\n\n\nMilho louro pardo\n\n\n\n\n\nMilho louro pardo\n\n\n\n\n\nVer post no Instagram"
+  },
+  {
+    "objectID": "plantio_milho_abobora.html#plantio-milho-abobora",
+    "href": "plantio_milho_abobora.html#plantio-milho-abobora",
+    "title": "Plantio milho abobora",
+    "section": "",
+    "text": "Descrição detalhada da atividade. Substitua este texto por informações reais.\n\n\n\n\n\nItem\nValor (R$)\n\n\n\n\nInsumo\n0,00\n\n\nMão de obra\n0,00\n\n\nRetorno\n0,00\n\n\n\n\n\n\n\n\n\nMilho e abóbora novo\n\n\n\n\n\nMilho e abóbora\n\n\n\n\n\nMilho recém germinado e louro pardo\n\n\n\n\n\nMilho louro pardo\n\n\n\n\n\nMilho louro pardo\n\n\n\n\n\nVer post no Instagram"
+  },
+  {
+    "objectID": "producao.html",
+    "href": "producao.html",
+    "title": "Producao",
+    "section": "",
+    "text": "Conteúdo de producao."
+  }
+]

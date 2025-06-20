@@ -1,0 +1,43 @@
+---
+title: "Plantio do milho e das abóboras"
+format: html
+---
+
+## Plantio do milho e das abóboras
+
+**Data:** 2024-10-15
+
+Espécies de ciclo curto foram plantadas junto às espécies nativas para garantir cobertura e retorno no primeiro ano.
+
+### Custos associados
+
+```{r}
+# Substitua os valores abaixo pelos dados reais
+data.frame(
+  Descrição = c("Insumos", "Mão de obra", "Equipamentos"),
+  `Custo (R$)` = c(0, 0, 0)
+)
+```
+
+### Retorno (quando aplicável)
+
+```{r}
+# Substitua pelos dados de produção e valor
+data.frame(
+  Produto = c(""),
+  Quantidade = c(""),
+  `Valor Total (R$)` = c("")
+)
+```
+
+### Imagens e vídeos
+
+*Imagens ilustrativas serão incluídas aqui, conforme forem disponibilizadas.*
+
+### Post relacionado no Instagram
+
+[Link para o post](https://www.instagram.com/reel/C3jDmmFMjBv/?igsh=MXRsd25vanlsa2RsMw)
+
+### Baixe a planilha de custos e produção
+
+[Baixar planilha](../custo_e_retorno.csv)

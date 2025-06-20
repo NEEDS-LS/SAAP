@@ -1,0 +1,26 @@
+---
+title: "Plantio especies nativas"
+format:
+  html: default
+---
+
+## Plantio especies nativas
+
+Descrição detalhada da atividade. Substitua este texto por informações reais.
+
+### 💰 Custos e Retornos
+
+| Item        | Valor (R$)  |
+|-------------|-------------|
+| Insumo      | 0,00        |
+| Mão de obra | 0,00        |
+| Retorno     | 0,00        |
+
+### 📸 Galeria de Fotos
+
+![](docs/images/plantio_especies_nativas/imagem1.jpg)
+![](docs/images/plantio_especies_nativas/imagem2.jpg)
+
+### 📲 Instagram
+
+[Ver post no Instagram](#)

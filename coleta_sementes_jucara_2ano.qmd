@@ -1,0 +1,26 @@
+---
+title: "Coleta sementes jucara 2ano"
+format:
+  html: default
+---
+
+## Coleta sementes jucara 2ano
+
+Descrição detalhada da atividade. Substitua este texto por informações reais.
+
+### 💰 Custos e Retornos
+
+| Item        | Valor (R$)  |
+|-------------|-------------|
+| Insumo      | 0,00        |
+| Mão de obra | 0,00        |
+| Retorno     | 0,00        |
+
+### 📸 Galeria de Fotos
+
+![](docs/images/coleta_sementes_jucara_2ano/imagem1.jpg)
+![](docs/images/coleta_sementes_jucara_2ano/imagem2.jpg)
+
+### 📲 Instagram
+
+[Ver post no Instagram](#)

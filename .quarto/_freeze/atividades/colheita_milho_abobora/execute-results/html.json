@@ -1,0 +1,15 @@
+{
+  "hash": "872bd82be94626691ab9b4db9872be9f",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Colheita do milho e da abóbora\"\nformat: html\n---\n\n\n\n## Colheita do milho e da abóbora\n\n**Data:** 2025-03-10\n\nA produção agrícola consorciada com espécies nativas foi colhida, avaliando-se rendimento e retorno econômico.\n\n### Custos associados\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# Substitua os valores abaixo pelos dados reais\ndata.frame(\n  Descrição = c(\"Insumos\", \"Mão de obra\", \"Equipamentos\"),\n  `Custo (R$)` = c(0, 0, 0)\n)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n     Descrição Custo..R..\n1      Insumos          0\n2  Mão de obra          0\n3 Equipamentos          0\n```\n\n\n:::\n:::\n\n\n\n### Retorno (quando aplicável)\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# Substitua pelos dados de produção e valor\ndata.frame(\n  Produto = c(\"\"),\n  Quantidade = c(\"\"),\n  `Valor Total (R$)` = c(\"\")\n)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n  Produto Quantidade Valor.Total..R..\n1                                    \n```\n\n\n:::\n:::\n\n\n\n### Imagens e vídeos\n\n![Avaliação da produção do milho](../imagens/avaliacao_producao_miho.jpg){width=200px}\n\n![Cambotia](../imagens/cambotia_01.jpg){width=220px}\n\n![Cambotia](../imagens/cambotia_02.jpg){width=220px}\n\n### Post relacionado no Instagram\n\n_Nenhum post disponível_\n\n### Baixe a planilha de custos e produção\n\n[Baixar planilha](../custo_e_retorno.csv)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

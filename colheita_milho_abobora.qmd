@@ -1,0 +1,26 @@
+---
+title: "Colheita milho abobora"
+format:
+  html: default
+---
+
+## Colheita milho abobora
+
+Descrição detalhada da atividade. Substitua este texto por informações reais.
+
+### 💰 Custos e Retornos
+
+| Item        | Valor (R$)  |
+|-------------|-------------|
+| Insumo      | 0,00        |
+| Mão de obra | 0,00        |
+| Retorno     | 0,00        |
+
+### 📸 Galeria de Fotos
+
+![](docs/images/colheita_milho_abobora/imagem1.jpg)
+![](docs/images/colheita_milho_abobora/imagem2.jpg)
+
+### 📲 Instagram
+
+[Ver post no Instagram](#)

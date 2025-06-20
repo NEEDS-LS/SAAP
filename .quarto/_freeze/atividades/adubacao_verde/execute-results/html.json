@@ -1,0 +1,15 @@
+{
+  "hash": "febac5f25581022f4e2d11872a7f71ad",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Adubação verde\"\nformat: html\n---\n\n\n\n## Adubação verde\n\n**Data:** 2025-03-28\n\nUtilização de espécies leguminosas para recuperação do solo e aporte de nitrogênio de forma natural.\n\n### Custos associados\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# Substitua os valores abaixo pelos dados reais\ndata.frame(\n  Descrição = c(\"Insumos\", \"Mão de obra\", \"Equipamentos\"),\n  `Custo (R$)` = c(0, 0, 0)\n)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n     Descrição Custo..R..\n1      Insumos          0\n2  Mão de obra          0\n3 Equipamentos          0\n```\n\n\n:::\n:::\n\n\n\n### Retorno (quando aplicável)\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# Substitua pelos dados de produção e valor\ndata.frame(\n  Produto = c(\"\"),\n  Quantidade = c(\"\"),\n  `Valor Total (R$)` = c(\"\")\n)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n  Produto Quantidade Valor.Total..R..\n1                                    \n```\n\n\n:::\n:::\n\n\n\n### Imagens e vídeos\n\n*Imagens ilustrativas serão incluídas aqui, conforme forem disponibilizadas.*\n\n### Post relacionado no Instagram\n\n[Link para o post](https://www.instagram.com/reel/DCpg-Sih_yO/?igsh=aXlsaXhidTN4bWVu)\n\n### Baixe a planilha de custos e produção\n\n[Baixar planilha](../custo_e_retorno.csv)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

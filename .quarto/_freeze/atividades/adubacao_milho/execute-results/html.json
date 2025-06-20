@@ -1,0 +1,15 @@
+{
+  "hash": "502e14c8c7921d41a72e11a6ad5660af",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Adubação de cobertura do milho\"\nformat: html\n---\n\n\n\n## Adubação de cobertura do milho\n\n**Data:** 2024-12-05\n\nAdubação nitrogenada em cobertura para garantir o bom desenvolvimento do milho plantado em consórcio.\n\n### Custos associados\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# Substitua os valores abaixo pelos dados reais\ndata.frame(\n  Descrição = c(\"Insumos\", \"Mão de obra\", \"Equipamentos\"),\n  `Custo (R$)` = c(0, 0, 0)\n)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n     Descrição Custo..R..\n1      Insumos          0\n2  Mão de obra          0\n3 Equipamentos          0\n```\n\n\n:::\n:::\n\n\n\n### Retorno (quando aplicável)\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# Substitua pelos dados de produção e valor\ndata.frame(\n  Produto = c(\"\"),\n  Quantidade = c(\"\"),\n  `Valor Total (R$)` = c(\"\")\n)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n  Produto Quantidade Valor.Total..R..\n1                                    \n```\n\n\n:::\n:::\n\n\n\n### Imagens e vídeos\n\n*Imagens ilustrativas serão incluídas aqui, conforme forem disponibilizadas.*\n\n### Post relacionado no Instagram\n\n[Link para o post](https://www.instagram.com/reel/C4_g6xApdRz/?igsh=b3M5aGZqdzlhZnl4)\n\n### Baixe a planilha de custos e produção\n\n[Baixar planilha](../custo_e_retorno.csv)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,43 @@
+---
+title: "Adubação verde"
+format: html
+---
+
+## Adubação verde
+
+**Data:** 2025-03-28
+
+Utilização de espécies leguminosas para recuperação do solo e aporte de nitrogênio de forma natural.
+
+### Custos associados
+
+```{r}
+# Substitua os valores abaixo pelos dados reais
+data.frame(
+  Descrição = c("Insumos", "Mão de obra", "Equipamentos"),
+  `Custo (R$)` = c(0, 0, 0)
+)
+```
+
+### Retorno (quando aplicável)
+
+```{r}
+# Substitua pelos dados de produção e valor
+data.frame(
+  Produto = c(""),
+  Quantidade = c(""),
+  `Valor Total (R$)` = c("")
+)
+```
+
+### Imagens e vídeos
+
+*Imagens ilustrativas serão incluídas aqui, conforme forem disponibilizadas.*
+
+### Post relacionado no Instagram
+
+[Link para o post](https://www.instagram.com/reel/DCpg-Sih_yO/?igsh=aXlsaXhidTN4bWVu)
+
+### Baixe a planilha de custos e produção
+
+[Baixar planilha](../custo_e_retorno.csv)

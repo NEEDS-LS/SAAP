@@ -1,0 +1,45 @@
+---
+title: "Coleta de sementes de juçara (2º ano)"
+format: html
+---
+
+## Coleta de sementes de juçara (2º ano)
+
+**Data:** 2025-02-15
+
+Sementes de palmeira juçara foram coletadas de matrizes com boa performance para nova produção de mudas.
+
+### Custos associados
+
+```{r}
+# Substitua os valores abaixo pelos dados reais
+data.frame(
+  Descrição = c("Insumos", "Mão de obra", "Equipamentos"),
+  `Custo (R$)` = c(0, 0, 0)
+)
+```
+
+### Retorno (quando aplicável)
+
+```{r}
+# Substitua pelos dados de produção e valor
+data.frame(
+  Produto = c(""),
+  Quantidade = c(""),
+  `Valor Total (R$)` = c("")
+)
+```
+
+### Imagens e vídeos
+
+![Colheita de cacho de juçara](../imagens/colheita_cacho_jucara.jpg){width=200px}
+
+
+
+### Post relacionado no Instagram
+
+[Link para o post](https://www.instagram.com/reel/DAMMOW8pS-A/?igsh=ODdzOXMzaDc3eHZ5)
+
+### Baixe a planilha de custos e produção
+
+[Baixar planilha](../custo_e_retorno.csv)

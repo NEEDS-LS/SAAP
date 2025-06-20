@@ -1,0 +1,15 @@
+{
+  "hash": "83ec4ee9ada6493fa85360be8851f0c0",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Preparo da área\"\nformat: html\n---\n\n\n\n## Preparo da área\n\n**Data:** 2024-08-30\n\nFoi feita a limpeza, gradagem e subsolagem para adequar o solo ao plantio das mudas nativas e culturas agrícolas.\n\n### Custos associados\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# Substitua os valores abaixo pelos dados reais\ndata.frame(\n  Descrição = c(\"Insumos\", \"Mão de obra\", \"Equipamentos\"),\n  `Custo (R$)` = c(0, 0, 0)\n)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n     Descrição Custo..R..\n1      Insumos          0\n2  Mão de obra          0\n3 Equipamentos          0\n```\n\n\n:::\n:::\n\n\n\n### Retorno (quando aplicável)\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# Substitua pelos dados de produção e valor\ndata.frame(\n  Produto = c(\"\"),\n  Quantidade = c(\"\"),\n  `Valor Total (R$)` = c(\"\")\n)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n  Produto Quantidade Valor.Total..R..\n1                                    \n```\n\n\n:::\n:::\n\n\n\n### Imagens e vídeos\n\n\n![Limpeza da área, retirada de lenha](../imagens/limpeza_da_area.jpg){width=600px}\n\n![Preparo da área com destoca de árvores mortas](../imagens/preparo_da_area.jpg){width=600px}\n\n![Preparo da área, grade](../imagens/preparo_da_area_grade.jpg){width=600px}\n\n![Preparo da área subsolador](../imagens/preparo_da_area_subsolador.jpg){width=600px}\n\n<video width=\"600\" controls>\n  <source src=\"../imagens/video_subsolador_usar.mp4\" type=\"video/mp4\">\n</video>\n\n### Post relacionado no Instagram\n\n[Link para o post](https://www.instagram.com/reel/C3I_LtZJbPe/?igsh=MXJmMDR2c3BjbDV2dQ==)\n\n### Baixe a planilha de custos e produção\n\n[Baixar planilha](../custo_e_retorno.csv)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

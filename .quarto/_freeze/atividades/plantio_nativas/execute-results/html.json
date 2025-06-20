@@ -1,0 +1,15 @@
+{
+  "hash": "a3420956eff1eb1e7dd56dfbbeb40117",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Plantio de espécies nativas\"\nformat: html\n---\n\n\n\n## Plantio de espécies nativas\n\n**Data:** 2024-09-25\n\nEspécies florestais nativas de diversas funcionalidades foram introduzidas no sistema agroflorestal.\n\n### Custos associados\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# Substitua os valores abaixo pelos dados reais\ndata.frame(\n  Descrição = c(\"Insumos\", \"Mão de obra\", \"Equipamentos\"),\n  `Custo (R$)` = c(0, 0, 0)\n)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n     Descrição Custo..R..\n1      Insumos          0\n2  Mão de obra          0\n3 Equipamentos          0\n```\n\n\n:::\n:::\n\n\n\n### Retorno (quando aplicável)\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# Substitua pelos dados de produção e valor\ndata.frame(\n  Produto = c(\"\"),\n  Quantidade = c(\"\"),\n  `Valor Total (R$)` = c(\"\")\n)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n  Produto Quantidade Valor.Total..R..\n1                                    \n```\n\n\n:::\n:::\n\n\n\n### Imagens e vídeos\n\n![Adubação de plantio](../imagens/cova_com_fosforado.jpg){width=200px}\n\n![Plantio louro pardo](../imagens/plantio_louro_pardo.jpg){width=200px}\n\n\n\n### Post relacionado no Instagram\n\n[Link para o post](https://www.instagram.com/reel/C3QwlmppJef/?igsh=MTU2ZjdhdXBnZDNyeg==)\n\n### Baixe a planilha de custos e produção\n\n[Baixar planilha](../custo_e_retorno.csv)\n\n### Imagens da atividade\n\n![](../imagens/plantio_nativas.jpg){width=600px}\n\n![](../imagens/plantio_nativas_louro_pardo.jpg){width=600px}\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

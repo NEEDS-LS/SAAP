@@ -1,0 +1,43 @@
+---
+title: "Adubação de cobertura do milho"
+format: html
+---
+
+## Adubação de cobertura do milho
+
+**Data:** 2024-12-05
+
+Adubação nitrogenada em cobertura para garantir o bom desenvolvimento do milho plantado em consórcio.
+
+### Custos associados
+
+```{r}
+# Substitua os valores abaixo pelos dados reais
+data.frame(
+  Descrição = c("Insumos", "Mão de obra", "Equipamentos"),
+  `Custo (R$)` = c(0, 0, 0)
+)
+```
+
+### Retorno (quando aplicável)
+
+```{r}
+# Substitua pelos dados de produção e valor
+data.frame(
+  Produto = c(""),
+  Quantidade = c(""),
+  `Valor Total (R$)` = c("")
+)
+```
+
+### Imagens e vídeos
+
+*Imagens ilustrativas serão incluídas aqui, conforme forem disponibilizadas.*
+
+### Post relacionado no Instagram
+
+[Link para o post](https://www.instagram.com/reel/C4_g6xApdRz/?igsh=b3M5aGZqdzlhZnl4)
+
+### Baixe a planilha de custos e produção
+
+[Baixar planilha](../custo_e_retorno.csv)

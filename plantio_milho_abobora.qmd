@@ -1,0 +1,35 @@
+---
+title: "Plantio milho abobora"
+format:
+  html: default
+---
+
+## Plantio milho abobora
+
+Descrição detalhada da atividade. Substitua este texto por informações reais.
+
+### 💰 Custos e Retornos
+
+| Item        | Valor (R$)  |
+|-------------|-------------|
+| Insumo      | 0,00        |
+| Mão de obra | 0,00        |
+| Retorno     | 0,00        |
+
+### 📸 Galeria de Fotos
+
+![Milho e abóbora novo](./imagens/milho_abobora.jpg){width=220px}
+
+
+
+![Milho e abóbora](./imagens/milho_plantado.jpg){width=220px}
+
+![Milho recém germinado e louro pardo](./imagens/milho_peq_louro_pardo.jpg){width=220px}
+
+![Milho louro pardo](./imagens/milho_louro_pardo.jpg){width=220px}
+
+![Milho louro pardo](./imagens/milho_no_campo.jpg){width=200px}
+
+### 📲 Instagram
+
+[Ver post no Instagram](#)

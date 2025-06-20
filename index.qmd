@@ -1,0 +1,11 @@
+---
+title: "Index"
+format:
+  html: default
+---
+
+Este site documenta as ações, resultados e cronologia do projeto SAAP.
+
+Veja o nosso esquema de plantio:
+
+![](./imagens/esquema_plantio.jpg){width=600px}

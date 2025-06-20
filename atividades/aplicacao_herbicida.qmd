@@ -1,0 +1,45 @@
+---
+title: "Aplicação de herbicida"
+format: html
+---
+
+## Aplicação de herbicida
+
+**Data:** 2025-04-22
+
+Controle químico de espécies competidoras visando garantir o estabelecimento inicial das espécies nativas e produtivas.
+
+### Custos associados
+
+```{r}
+# Substitua os valores abaixo pelos dados reais
+data.frame(
+  Descrição = c("Insumos", "Mão de obra", "Equipamentos"),
+  `Custo (R$)` = c(0, 0, 0)
+)
+```
+
+### Retorno (quando aplicável)
+
+```{r}
+# Substitua pelos dados de produção e valor
+data.frame(
+  Produto = c(""),
+  Quantidade = c(""),
+  `Valor Total (R$)` = c("")
+)
+```
+
+### Imagens e vídeos
+
+<video width="600" controls>
+  <source src="../imagens/desecado.mp4" type="video/mp4">
+</video>
+
+### Post relacionado no Instagram
+
+_Nenhum post disponível_
+
+### Baixe a planilha de custos e produção
+
+[Baixar planilha](../custo_e_retorno.csv)

@@ -1,0 +1,43 @@
+---
+title: "Abertura de covas para plantio de café e maracujá"
+format: html
+---
+
+## Abertura de covas para plantio de café e maracujá
+
+**Data:** 2025-05-15
+
+Preparo manual e mecanizado para o plantio das culturas produtivas complementares ao sistema agroflorestal.
+
+### Custos associados
+
+```{r}
+# Substitua os valores abaixo pelos dados reais
+data.frame(
+  Descrição = c("Insumos", "Mão de obra", "Equipamentos"),
+  `Custo (R$)` = c(0, 0, 0)
+)
+```
+
+### Retorno (quando aplicável)
+
+```{r}
+# Substitua pelos dados de produção e valor
+data.frame(
+  Produto = c(""),
+  Quantidade = c(""),
+  `Valor Total (R$)` = c("")
+)
+```
+
+### Imagens e vídeos
+
+![Preparo da area para plantio de maracuja e café](../imagens/estacas_maracuja.jpg){width=200px}
+
+### Post relacionado no Instagram
+
+_Nenhum post disponível_
+
+### Baixe a planilha de custos e produção
+
+[Baixar planilha](../custo_e_retorno.csv)

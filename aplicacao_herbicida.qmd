@@ -1,0 +1,26 @@
+---
+title: "Aplicacao herbicida"
+format:
+  html: default
+---
+
+## Aplicacao herbicida
+
+Descrição detalhada da atividade. Substitua este texto por informações reais.
+
+### 💰 Custos e Retornos
+
+| Item        | Valor (R$)  |
+|-------------|-------------|
+| Insumo      | 0,00        |
+| Mão de obra | 0,00        |
+| Retorno     | 0,00        |
+
+### 📸 Galeria de Fotos
+
+![](docs/images/aplicacao_herbicida/imagem1.jpg)
+![](docs/images/aplicacao_herbicida/imagem2.jpg)
+
+### 📲 Instagram
+
+[Ver post no Instagram](#)

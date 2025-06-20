@@ -1,0 +1,26 @@
+---
+title: "Preparo da area"
+format:
+  html: default
+---
+
+## Preparo da area
+
+Descrição detalhada da atividade. Substitua este texto por informações reais.
+
+### 💰 Custos e Retornos
+
+| Item        | Valor (R$)  |
+|-------------|-------------|
+| Insumo      | 0,00        |
+| Mão de obra | 0,00        |
+| Retorno     | 0,00        |
+
+### 📸 Galeria de Fotos
+
+![](docs/images/preparo_da_area/imagem1.jpg)
+![](docs/images/preparo_da_area/imagem2.jpg)
+
+### 📲 Instagram
+
+[Ver post no Instagram](#)

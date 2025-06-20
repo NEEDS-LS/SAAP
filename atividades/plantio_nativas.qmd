@@ -1,0 +1,54 @@
+---
+title: "Plantio de espécies nativas"
+format: html
+---
+
+## Plantio de espécies nativas
+
+**Data:** 2024-09-25
+
+Espécies florestais nativas de diversas funcionalidades foram introduzidas no sistema agroflorestal.
+
+### Custos associados
+
+```{r}
+# Substitua os valores abaixo pelos dados reais
+data.frame(
+  Descrição = c("Insumos", "Mão de obra", "Equipamentos"),
+  `Custo (R$)` = c(0, 0, 0)
+)
+```
+
+### Retorno (quando aplicável)
+
+```{r}
+# Substitua pelos dados de produção e valor
+data.frame(
+  Produto = c(""),
+  Quantidade = c(""),
+  `Valor Total (R$)` = c("")
+)
+```
+
+### Imagens e vídeos
+
+![Adubação de plantio](../imagens/cova_com_fosforado.jpg){width=200px}
+
+![Plantio louro pardo](../imagens/plantio_louro_pardo.jpg){width=200px}
+
+
+
+### Post relacionado no Instagram
+
+[Link para o post](https://www.instagram.com/reel/C3QwlmppJef/?igsh=MTU2ZjdhdXBnZDNyeg==)
+
+### Baixe a planilha de custos e produção
+
+[Baixar planilha](../custo_e_retorno.csv)
+
+### Imagens da atividade
+
+![](../imagens/plantio_nativas.jpg){width=600px}
+
+![](../imagens/plantio_nativas_louro_pardo.jpg){width=600px}
+

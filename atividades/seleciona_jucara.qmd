@@ -1,0 +1,51 @@
+---
+title: "Seleção de matrizes de juçara para produção de polpa"
+format: html
+---
+
+## Seleção de matrizes de juçara para produção de polpa
+
+**Data:** 2023-08-10
+
+Foram identificadas matrizes precoces e produtivas de palmeira juçara para coleta de sementes e produção de mudas.
+
+### Custos associados
+
+```{r}
+# Substitua os valores abaixo pelos dados reais
+data.frame(
+  Descrição = c("Insumos", "Mão de obra", "Equipamentos"),
+  `Custo (R$)` = c(0, 0, 0)
+)
+```
+
+### Retorno (quando aplicável)
+
+```{r}
+# Substitua pelos dados de produção e valor
+data.frame(
+  Produto = c(""),
+  Quantidade = c(""),
+  `Valor Total (R$)` = c("")
+)
+```
+
+### Imagens e vídeos
+
+![Mudas juçara](../imagens/mudas_palmito.jpg){width=200px}
+
+![Mudas juçara](../imagens/mudas_jucara.jpg){width=200px}
+
+![Mudas juçara](../imagens/mudas_jucara_saco_maior.jpg){width=200px}
+
+![Mudas juçara](../imagens/mudas_jucara_sacao.jpg){width=200px}
+
+![Mudas juçara](../imagens/mudas_jucara_grande.jpg){width=200px}
+
+### Post relacionado no Instagram
+
+[Link para o post](https://www.instagram.com/p/CwJCkVpJBJY/?img_index=2&igsh=MThtYWZtZmhtdzdrMQ==)
+
+### Baixe a planilha de custos e produção
+
+[Baixar planilha](../custo_e_retorno.csv)
